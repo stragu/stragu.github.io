@@ -1,2 +1,2 @@
 # stragu.github.io
-Stéphane Guillou's website
+My website, with info about me and what I like and what I work towards.

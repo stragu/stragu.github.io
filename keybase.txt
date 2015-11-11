@@ -1,0 +1,76 @@
+ ==================================================================
+https://keybase.io/stephane_guillou
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://stragu.github.io
+  * I am stephane_guillou (https://keybase.io/stephane_guillou) on keybase.
+  * I have a public key with fingerprint D546 8955 F505 68C8 9482  71A5 4480 A715 4E21 1060
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.8"
+        },
+        "key": {
+            "fingerprint": "d5468955f50568c8948271a54480a7154e211060",
+            "host": "keybase.io",
+            "key_id": "4480A7154E211060",
+            "uid": "948a68a7a769110b074c27e3d8b7d419",
+            "username": "stephane_guillou"
+        },
+        "merkle_root": {
+            "ctime": 1447224863,
+            "hash": "7eae72d72c79e214c57bd64b1a7da5ce1c4ba09b0c0e62542ce692efec334e430fe3f08dda74f7565ed01e5ec3bea25eb7559f32c0f5782e924c5624f8e5bff7",
+            "seqno": 317616
+        },
+        "service": {
+            "hostname": "stragu.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1447225036,
+    "expire_in": 157680000,
+    "prev": "a16529d3f26aa722319c6e3eab9712954848d142183a6f7d94afa0f5a2176a07",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2.0.22 (GNU/Linux)
+
+owFVkl9sFFUUxncLYkqEbBpMFKGhAzZqlmXunftvqi+QYjTVGhNSo21Y78yc2R26
+O7POzFYLadzE8ABFA4KiaKwpREJINDWUAA9NI7ENQoyBF0oiog8oEBMeoC8Y8N5a
+CczTzJzf+c73nXt3L1mQacp2Ng4/3t2Wezt79pqT6dlw9fw2w4m8QaNjm+FWAghT
+/RbKKhgdRj8MOjKBQhCtCiMPCluSVfNM3hiAOAmiUFFmgReEMZTXuG72g7AEcS0O
+tJbhUcKETalPTcqEK2wiMEeSEiJMyRElgBEymakky1GSPjTVmNMsBp76q/n1mt94
+n6/PFZSgZEJyyZmtKo7JiYs5WJ5wuEeQrcEE4vlISQq1sgyhWKoHlUpU176rEPdX
+oBhH0Vx4Nw00igjhGBPBLOVMJmXVzEECxx7HLreVbeJS7niMOEhyT1IXkEscadqO
+6ZrAMCXYBWZj8MG1LALEMn2wfFN4nuTE55RR8EwEVJUdkJiCwym1fQu7pk+5wGBj
+NYJh4gugju9zFSWBd8LI6LAQZ4gN6e94IHBB+9bru58ylqV6oRSk5brz3yJrcZRG
+blRR1XKa1pIOY+hU3kgHa5p/F5zivFLRCUJPneCDR4zUoIe2Qk2L5Q14rxbEUAw0
+QTkTpnr0IBhQkhIxim3P8jGTUrVYyHYZWCAdmyNsUyKI8BDBSFiS+dyzifSlyi2x
+iibNB7ISZVOWdKqgFMq0HoMxtCO7YmEm25RZ9EiTvsOZxc25/y/2HyOP3us69OzI
+7UvPzOy67l68+SY9gJ4e+/nSzOqFb/wz3PLEeP9Ao3eidemRsS+vXH5s5HRj70m6
+INcy/AKk7MNWOO6vS9bvn/CnvD14+RfJ+Mj0Uy3bF9+ozratKR7o2Tj+yZnfq2v6
+ni937h597u/R1o+ubp6097woZ3ompyaXdJ7p//PbTWLr3mrtra7zK2e3R7douvLu
+0q8mlp146Vz3vqnu2R1tjY8P3rnS3sxnzk0fm/4af/DNVvFT+/H6650vf344d+H0
+L6d60YVXF7X+2Pv+8u+6YPTi93fcJ1MH8puvZV87O9ze94PZ/Nem39JGee3N6PKv
+R1cvuyv7cmM7N6zre2X/p/s+27Vzy78=
+=MFDv
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/stephane_guillou
+
+==================================================================

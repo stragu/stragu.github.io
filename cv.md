@@ -4,6 +4,8 @@ title: curriculum vitae
 permalink: /cv/
 ---
 
+<small> *Last updated: 2015-12-10* </small>
+
 # Education
 
 | 2010&nbsp;–&nbsp;2012 | *Masters of Science* – Plants and Environment

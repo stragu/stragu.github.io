@@ -31,7 +31,7 @@ permalink: /cv/
 || [Plant Nutrition and Ecophysiology group](http://epngroup.org/), School of Agriculture and Food Sciences
 || The University of Queensland, Brisbane, Australia
 || <small>→ Diverse research projects with a focus in sustainable agricultural systems:</small>
-|| <small>&nbsp;&nbsp;&nbsp;&nbsp;- nitrogen use efficiency in Sugarcane varieties</small>
+|| <small>&nbsp;&nbsp;&nbsp;&nbsp;- nitrogen use efficiency in sugarcane varieties</small>
 || <small>&nbsp;&nbsp;&nbsp;&nbsp;- use of alternative organic fertilisers, including distillery waste</small>
 || <small>&nbsp;&nbsp;&nbsp;&nbsp;- Life Cycle Assessment of sugarcane agriculture from cradle to gate</small>
 || <small>&nbsp;&nbsp;&nbsp;&nbsp;- next-generation fertilisers for a sustainable tropical agriculture</small>
@@ -61,7 +61,7 @@ permalink: /cv/
 # Computer science
 
 Office
-: &nbsp;&nbsp;&nbsp;&nbsp;Extensive knowledge of LibreOffice/Apache Open Office software as well as Microsoft Office
+: &nbsp;&nbsp;&nbsp;&nbsp;Extensive knowledge of office suites LibreOffice and Microsoft Office
 
 Packages
 : &nbsp;&nbsp;&nbsp;&nbsp;Extensive knowledge of Linux environments and GNU packages

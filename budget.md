@@ -11,3 +11,5 @@ permalink: /budget/
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1oJ1DF04nDP6O4WvBAiyT65M-BznZI9hxB4ok_H7bj70/pubchart?oid=2097126285&amp;format=interactive"></iframe>
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1oJ1DF04nDP6O4WvBAiyT65M-BznZI9hxB4ok_H7bj70/pubchart?oid=670785937&amp;format=interactive"></iframe>
+
+<iframe src="https://docs.google.com/spreadsheets/d/1oJ1DF04nDP6O4WvBAiyT65M-BznZI9hxB4ok_H7bj70/pubhtml?gid=1936979225&amp;single=true&amp;widget=true&amp;headers=false"></iframe>

@@ -88,16 +88,16 @@ Languages
 # Languages
 
 English
-: &nbsp;&nbsp;&nbsp;&nbsp;Fluency (9 years of study, residence in Australia)
+: fluency (9 years of study, residence in Australia)
 
 French
-: &nbsp;&nbsp;&nbsp;&nbsp;Mother tongue
+: mother tongue
 
 Spanish
-: &nbsp;&nbsp;&nbsp;&nbsp;Second language, fluency (5 years of study in International secondary education, residence in Spain)
+: second language, fluency (5 years of study in International secondary education, residence in Spain)
 
 German
-: &nbsp;&nbsp;&nbsp;&nbsp;Basic level, spoken and written
+: basic level, spoken and written
 
 ----
 

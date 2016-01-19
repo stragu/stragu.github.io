@@ -8,7 +8,15 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
-
+/**
+ * SG: Change definition list style
+ */
+dt {
+  font-weight: bold;
+}
+dd {
+  margin: $spacing-unit;
+}
 
 /**
  * Basic styling

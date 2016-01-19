@@ -4,7 +4,9 @@ title: curriculum vitae
 permalink: /cv/
 ---
 
-<small> *Last updated: 2015-12-10* </small>
+<small> *Last updated: 2016-01-19* </small>
+
+Currently available for employment.
 
 # Education
 
@@ -12,7 +14,7 @@ permalink: /cv/
 || University of Strasbourg, France
 || <small>→ Including one week botany and ecology training course in the French Alps, Col du Lautaret, France</small>
 ||
-| 2010&nbsp;–&nbsp;2011 | *University Diploma* – Pollutions and Nuisances
+| 2010&nbsp;–&nbsp;2011 | *University Diploma* – Environmental Risks and Management
 || University of Strasbourg, France
 ||
 | 2005&nbsp;–&nbsp;2008	| *Bachelor of Science* – Cell Biology and Physiology

@@ -8,15 +8,19 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
+
+
 /**
- * SG: Change definition list style
+ * SG: Definition list style
  */
 dt {
   font-weight: bold;
 }
 dd {
-  margin: $spacing-unit;
+  margin-left: $spacing-unit;
 }
+
+
 
 /**
  * Basic styling
@@ -119,7 +123,7 @@ blockquote {
     color: $grey-color;
     border-left: 4px solid $grey-color-light;
     padding-left: $spacing-unit / 2;
-    font-size: 18px;
+    font-size: $base-font-size;
     letter-spacing: -1px;
     font-style: italic;
 

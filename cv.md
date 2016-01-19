@@ -6,7 +6,7 @@ permalink: /cv/
 
 <small> *Last updated: 2016-01-19* </small>
 
-Currently available for employment.
+Currently **available for employment**.
 
 # Education
 

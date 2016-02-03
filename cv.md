@@ -4,7 +4,7 @@ title: curriculum vitae
 permalink: /cv/
 ---
 
-<small> *Last updated: 2016-01-19* </small>
+<small> *Last updated: 2016-02-03* </small>
 
 Currently **available for employment**.
 
@@ -29,7 +29,7 @@ Currently **available for employment**.
 
 # Professional experience
 
-| 2012&nbsp;–&nbsp;cur. | *Research Officer*
+| 2012&nbsp;–&nbsp;2016 | *Research Officer*
 || [Plant Nutrition and Ecophysiology group](http://epngroup.org/), School of Agriculture and Food Sciences
 || The University of Queensland, Brisbane, Australia
 || <small>→ Diverse research projects with a focus in sustainable agricultural systems:</small>
@@ -63,23 +63,23 @@ Currently **available for employment**.
 # Computer science
 
 Office
-: &nbsp;&nbsp;&nbsp;&nbsp;Extensive knowledge of office suites LibreOffice and Microsoft Office
+: Extensive knowledge of office suites LibreOffice and Microsoft Office
 
 Packages
-: &nbsp;&nbsp;&nbsp;&nbsp;Extensive knowledge of Linux environments and GNU packages
-: &nbsp;&nbsp;&nbsp;&nbsp;Sound knowledge of Git revision system[^GitHub]
-: &nbsp;&nbsp;&nbsp;&nbsp;Sound knowledge of GIS, using QGIS
-: &nbsp;&nbsp;&nbsp;&nbsp;Sound knowledge of Wordpress software
+: Extensive knowledge of Linux environments and GNU packages
+: Sound knowledge of Git revision system[^GitHub]
+: Sound knowledge of GIS, using QGIS
+: Sound knowledge of Wordpress and Jekyll publishing software
 
 Languages
 : &nbsp;&nbsp;&nbsp;&nbsp;Sound knowledge of R
-: &nbsp;&nbsp;&nbsp;&nbsp;Basic knowledge in C, Python and HTML
+: &nbsp;&nbsp;&nbsp;&nbsp;Basic knowledge in C, Python, HTML and CSS
 
 # Other skills, interests and hobbies
 
 * Committee member of Brisbane's 4EB FM's [French-language group](http://www.4eb.org.au/french), broadcaster and panel operator; main broadcaster and panel operator of music show *[studio d'essai](https://studio-dessai.github.io/)* on Global Digital radio.
 * Treasurer and founding member of French non-profit organisation *Concrete*, promoting contemporary music
-* Open knowledge and Free Software advocate (contributor on several collaborative projects, including Wikipedia[^wiki], OpenStreetMap[^OSM] and Musicbrainz[^MB])
+* Open knowledge and Free Software advocate (FSF member; contributor on several collaborative projects, including Wikipedia[^wiki], OpenStreetMap[^OSM] and Musicbrainz[^MB])
 * Cycling, rock-climbing, performance arts
 * Music: guitar, percussion and electronic music
 * Botany and gardening, cinema, literature, cooking, travel, bushwalks
@@ -97,7 +97,7 @@ Spanish
 : second language, fluency (5 years of study in International secondary education, residence in Spain)
 
 German
-: basic level, spoken and written
+: intermediate level, spoken and written
 
 ----
 

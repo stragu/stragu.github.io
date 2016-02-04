@@ -72,8 +72,8 @@ Packages
 : Sound knowledge of Wordpress and Jekyll publishing software
 
 Languages
-: &nbsp;&nbsp;&nbsp;&nbsp;Sound knowledge of R
-: &nbsp;&nbsp;&nbsp;&nbsp;Basic knowledge in C, Python, HTML and CSS
+: Sound knowledge of R
+: Basic knowledge in C, Bash, Python, HTML and CSS
 
 # Other skills, interests and hobbies
 

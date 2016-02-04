@@ -116,3 +116,4 @@ German
 *[GIS]: Geographic Information System
 *[GNU]: "GNU's Not Unix!" software collection
 *[Free Software]: software that allows us to freely (0) use, (1) study, (2) redistribute and (3) modify it
+*[FSF]: Free Software Foundation

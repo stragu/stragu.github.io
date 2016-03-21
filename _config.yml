@@ -10,3 +10,4 @@ github_username:  stragu
 
 # Build settings
 markdown: kramdown
+# from Jekyll 3.0, default highlighter is rouge, and the only one supported on Github Pages

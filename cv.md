@@ -4,7 +4,7 @@ title: curriculum vitae
 permalink: /cv/
 ---
 
-<small> *Last updated: 2016-02-03* </small>
+<small> *Last updated: 2016-07-14* </small>
 
 Currently **available for employment**.
 
@@ -29,7 +29,7 @@ Currently **available for employment**.
 
 # Professional experience
 
-| 2012&nbsp;–&nbsp;2016 | *Research Officer*
+| 2012&nbsp;–&nbsp;current | *Research Officer*
 || [Plant Nutrition and Ecophysiology group](http://epngroup.org/), School of Agriculture and Food Sciences
 || The University of Queensland, Brisbane, Australia
 || <small>→ Diverse research projects with a focus in sustainable agricultural systems:</small>
@@ -69,7 +69,7 @@ Packages
 : Extensive knowledge of Linux environments and GNU packages
 : Sound knowledge of Git revision system[^GitHub]
 : Sound knowledge of GIS, using QGIS
-: Sound knowledge of Wordpress and Jekyll publishing software
+: Sound knowledge of Wordpress, Drupal and Jekyll publishing software
 
 Languages
 : Sound knowledge of R
@@ -79,6 +79,7 @@ Languages
 
 * Committee member of Brisbane's 4EB FM's [French-language group](http://www.4eb.org.au/french), broadcaster and panel operator; main broadcaster and panel operator of music show *[studio d'essai](https://studio-dessai.github.io/)* on Global Digital radio.
 * Treasurer and founding member of French non-profit organisation *Concrete*, promoting contemporary music
+* Volunteer at [Muticultural Development Association](https://mdaltd.org.au/)
 * Open knowledge and Free Software advocate (FSF member; contributor on several collaborative projects, including Wikipedia[^wiki], OpenStreetMap[^OSM] and Musicbrainz[^MB])
 * Cycling, rock-climbing, performance arts
 * Music: guitar, percussion and electronic music

@@ -1,8 +1,8 @@
 # Site settings
-title: stragu
-email: stephane [baseline dot] guillou [commercial at] ntymail [baseline dot] com
+title: Stéphane Guillou's website
+email: stephane [baseline dot] guillou [commercial at] member [baseline dot] fsf [baseline dot] org
 description: > # this means to ignore newlines until "baseurl:"
-  Stéphane Guillou's website
+  Stéphane Guillou's home page for info, contact details, posts and links
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://stragu.github.io" # the base hostname & protocol for your site
 twitter_username:

@@ -4,7 +4,7 @@ title: curriculum vitae
 permalink: /cv/
 ---
 
-<small> *Last updated: 2016-07-14* </small>
+<small> *Last updated: 2017-05-22* </small>
 
 Currently **available for employment**.
 

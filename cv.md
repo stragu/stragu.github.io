@@ -48,7 +48,7 @@ Currently **available for employment**.
 || <small>&nbsp;&nbsp;&nbsp;&nbsp;- webmaster of research group website</small>
 || <small>&nbsp;&nbsp;&nbsp;&nbsp;- voluntary “Green Office Program” representative to promote sustainability in the workplace</small>
 ||
-| 2014&nbsp;–&nbsp;cur. | *Volunteer herbarium maintainer*
+| 2014&nbsp;–&nbsp;2016 | *Volunteer herbarium maintainer*
 || Brisbane Botanic Gardens – Mount Coot-tha, Brisbane, Australia
 || <small>→ Identification and preparation of plant specimens; maintainment of database</small>
 ||

@@ -106,7 +106,7 @@ German
 [^GitHub]: see [GitHub profile](https://github.com/stragu) for an activity record
 [^wiki]: [10,000+](https://tools.wmflabs.org/guc/?user=Chtfn&blocks=true) edits
 [^OSM]: [600+](https://www.openstreetmap.org/user/stragu/history) changesets
-[^MB]: [1,500+](http://musicbrainz.org/user/Chtfn) edits
+[^MB]: [4,000+](http://musicbrainz.org/user/Chtfn) edits
 
 *[HTML]: Hyper Text Markup Language
 *[Erasmus]: European university exchange program

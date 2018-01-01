@@ -4,7 +4,7 @@ title: curriculum vitae
 permalink: /cv/
 ---
 
-<small> *Last updated: 2017-05-22* </small>
+<small> *Last updated: 2018-01-01* </small>
 
 Currently **available for employment**.
 
@@ -33,6 +33,8 @@ Currently **available for employment**.
 || [Plant Nutrition and Ecophysiology group](http://epngroup.org/), School of Agriculture and Food Sciences
 || The University of Queensland, Brisbane, Australia
 || <small>→ Diverse research projects with a focus in sustainable agricultural systems:</small>
+|| <small>&nbsp;&nbsp;&nbsp;&nbsp;- campus-wide GHG emissions accounting (waste management, agricultural activities)</small>
+|| <small>&nbsp;&nbsp;&nbsp;&nbsp;- nitrogen management modelling in cotton farms</small>
 || <small>&nbsp;&nbsp;&nbsp;&nbsp;- nitrogen use efficiency in sugarcane varieties</small>
 || <small>&nbsp;&nbsp;&nbsp;&nbsp;- use of alternative organic fertilisers, including distillery waste</small>
 || <small>&nbsp;&nbsp;&nbsp;&nbsp;- Life Cycle Assessment of sugarcane agriculture from cradle to gate</small>
@@ -40,6 +42,7 @@ Currently **available for employment**.
 || <small>&nbsp;&nbsp;&nbsp;&nbsp;- chronosequence study in Great Sandy National Park</small>
 || <small>&nbsp;&nbsp;&nbsp;&nbsp;- *Triodia* sp. study in North-West Queensland</small>
 || <small>→ Skills learned:</small>
+|| <small>&nbsp;&nbsp;&nbsp;&nbsp;- reviewing of software-based nitrogen management tool</small>
 || <small>&nbsp;&nbsp;&nbsp;&nbsp;- laboratory, glasshouse and field work</small>
 || <small>&nbsp;&nbsp;&nbsp;&nbsp;- scientific publication and report writing</small>
 || <small>&nbsp;&nbsp;&nbsp;&nbsp;- statistical analysis and interpretation of data</small>
@@ -77,6 +80,7 @@ Languages
 
 # Other skills, interests and hobbies
 
+* Trained [Software Carpentry](https://software-carpentry.org/)[^Carp] instructor since 2017
 * Committee member of Brisbane's 4EB FM's [French-language group](http://www.4eb.org.au/french), broadcaster and panel operator; main broadcaster and panel operator of music show *[studio d'essai](https://studio-dessai.github.io/)* on Global Digital radio.
 * Treasurer and founding member of French non-profit organisation *Concrete*, promoting contemporary music
 * Volunteer at [Muticultural Development Association](https://mdaltd.org.au/)
@@ -106,7 +110,8 @@ German
 [^GitHub]: see [GitHub profile](https://github.com/stragu) for an activity record
 [^wiki]: [10,000+](https://tools.wmflabs.org/guc/?user=Chtfn&blocks=true) edits
 [^OSM]: [600+](https://www.openstreetmap.org/user/stragu/history) changesets
-[^MB]: [4,000+](http://musicbrainz.org/user/Chtfn) edits
+[^MB]: [5,000+](http://musicbrainz.org/user/Chtfn) edits
+[^Carp]: non-profit organisation whose mission is to teach "basic lab skills for research computing"
 
 *[HTML]: Hyper Text Markup Language
 *[Erasmus]: European university exchange program
@@ -118,3 +123,4 @@ German
 *[GNU]: "GNU's Not Unix!" software collection
 *[Free Software]: software that allows us to freely (0) use, (1) study, (2) redistribute and (3) modify it
 *[FSF]: Free Software Foundation
+*[GHG]: Greenhouse Gas
